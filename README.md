@@ -2,7 +2,7 @@
 
 #### Bonjour Github :open_hands:
 
-##### Je suis Florent un passioné de la programmation et de l'informatique en général.
+##### Je suis Florent un passionné de la programmation et de l'informatique en général.
 
 :computer:
 
