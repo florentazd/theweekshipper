@@ -1,12 +1,9 @@
-### A propos de moi :boy:
-
+<h1 align="center">FlorentUnix 🧛🏾‍♂️ </h1>
 #### Bonjour Github :open_hands:
-
-##### Je suis Florent un passionné de la programmation et de l'informatique en général.
 
 :computer:
 
-![GIF](https://www.icegif.com/wp-content/uploads/icegif-6438.gif)
+<img align="center" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif" width="1024"></img>
 
 ### Langages
 
