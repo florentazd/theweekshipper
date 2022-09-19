@@ -1,42 +1,21 @@
 <h1 align="center">FlorentUnix 🧛🏾‍♂️ :computer: </h1>
 
 <div align="center" >
-<img align="center" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif"></img>
+
+![Node.js](https://img.shields.io/badge/node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=2ecc71)
+![socket.IO](https://img.shields.io/badge/Socket.IO-ffffff?style=for-the-badge&logo=socket.io&logoColor=27ae60)
+![Koa](https://img.shields.io/badge/Koa.JS-ffffff?style=for-the-badge&logo=koa&logoColor=000000)
+<br/>
+![Linux](https://img.shields.io/badge/GNU/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=f39c12)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=27ae60)
+![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)
 </div>
 
 <div align="center" >
-
-### Langages
-
-![TypeScript](https://img.shields.io/badge/-HTML5-F5F5F5?style=for-the-badge&logo=html5&color=red&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![TypeScript](https://img.shields.io/badge/-Typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
-</div>
-
-<div align="center" >
-   
-### Frameworks
-   
-![SvelteJS](https://img.shields.io/badge/svelte-orange?style=for-the-badge&logo=svelte&logoColor=white)
-![BulmaCSS](https://img.shields.io/badge/bulmaCSS-6DA55F?style=for-the-badge&logo=bulma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-00BBFF?style=for-the-badge&logo=chart.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-1abc9c?style=for-the-badge&logo=node.js&logoColor=white)
-</div>
-   
-<div align="center" >
-   
-### Outils
-
-![FIGMA](https://img.shields.io/badge/figma-00BBFF?style=for-the-badge&logo=figma&logoColor=white&color=red)
-![FIGMA](https://img.shields.io/badge/Socket.IO-27ae60?style=for-the-badge&logo=socket.io&logoColor=white)
-</div>
-
-<div align="center" >
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=florentazd&theme=dark&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=florentazd&theme=white&hide_border=true"/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=florentazd&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=florentazd&show_icons=true&theme=white" 
 />
 </div>
 
