@@ -13,9 +13,5 @@
 
 <div align="center" >
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=florentazd&theme=white&hide_border=true"/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=florentazd&show_icons=true&theme=white" 
-/>
 </div>
 
