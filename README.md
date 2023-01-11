@@ -7,7 +7,6 @@
 <div align="center">
    
 ![SvelteJS](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=ffffff)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=ffffff)
 ![Koa](https://img.shields.io/badge/Koa.JS-000000?style=for-the-badge&logo=koa&logoColor=ffffff)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
@@ -16,7 +15,6 @@
 
 ![socket.IO](https://img.shields.io/badge/Socket.IO-27ae60?style=for-the-badge&logo=socket.io&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/GNU/Linux-f39c12?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Framework7](https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=ffffff)
    
 </div>
    
