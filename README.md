@@ -4,9 +4,9 @@
 
 # 🪐 Hello world !!
 
-- 🥷 I am **Florent** and I come from benin
+- 🥷 I am **Florent** and I come from Benin
 - 💻 I'm a passionate FullStack Javascript Developer
-- ⚗️ I love creating amazing apps
+- ⚗️ I love to create things
 - 🔎 Ready for new adventures
 
 ## My tech stack
