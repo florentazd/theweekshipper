@@ -13,7 +13,7 @@
 
 ### Most used languages 
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,python,go,rust)
+![My Skills](https://skillicons.dev/icons?i=typescript,html,css,go,bash)
 
 ### Frontend Frameworks
 
@@ -23,6 +23,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)
 
+### Databases Tools
+
+![My Skills](https://skillicons.dev/icons?i=prisma)
 
 #### Views count since (30/07/23)
 
